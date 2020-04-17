@@ -1,27 +1,26 @@
-﻿﻿Prosjektportalen for Office 365  [![version](https://img.shields.io/badge/version-1.2.0-yellow.svg)](https://semver.org)
-=================
+﻿﻿# Project Portal for Office 365 [![version](https://img.shields.io/badge/version-1.2.0-yellow.svg)](https://semver.org)
 
-Prosjektportalen for Office 365 er et prosjektstyringsverktøy for Office 365 basert på <a href="http://prosjektveiviseren.no">Prosjektveiviseren</a>. <a href="http://www.puzzlepart.com/prosjektportalen-365/">Mer informasjon på Puzzleparts nettsider.</a>
+The Office 365 Project Portal is an Office 365 project management tool based on <a href="http://prosjektveiviseren.no">Project Wizard</a>. <a href="http://www.puzzlepart.com/prosjektportalen-365/">More information on Puzzlepart's website.</a>
 
-## Hva er Prosjektportalen for Office 365? ##
+## What is the Office 365 Project Portal?
 
-Prosjektportalen for Office 365 er bygget av <a href="http://www.puzzlepart.com">Puzzlepart AS</a>. Løsningen inneholder Office 365 og SharePoint-tilpasninger som til sammen utgjør et prosjektstyringsverktøy. Det blir satt opp en porteføljeside der en får en oversikt over prosjekter og kan opprette nye prosjektrom. Hvert prosjektområde opprettes som en Office 365 gruppe og det settes opp en del lister, en del standardelementer og logikk for å gjennomføre et prosjekt etter prosjektveiviserens modell. Prosjektveiviseren er Difis anbefalte prosjektmodell for gjennomføring av digitaliseringsprosjekter i offentlige virksomheter.
+The Office 365 Project Portal is built by <a href="http://www.puzzlepart.com">Puzzlepart AS</a>. The solution includes Office 365 and SharePoint customizations that together constitute a Project Management Tool. A Portfolio page is set up where you get an overview of projects and can create new project rooms. Each project area is created as an Office 365 group and some lists, some standard elements and logic are set up to execute a project according to the project wizard model. The project wizard is Difi's recommended project model for the implementation of digitization projects in public companies.
 
-Prosjektportalen ble i sin tid utviklet for Asker kommune og Kommit. Versjonen som her foreligger er utviklet av Puzzlepart basert på de samme prinsippene som den opprinnelige versjonen.
+The project portal was developed for Asker municipality and Kommit. The version available here was developed by Puzzlepart based on the same principles as the original version.
 
-## Installering ##
+## Installation
 
-Prosjektportalen 365 kan lastes ned <a href="https://github.com/Puzzlepart/prosjektportalen365/releases/latest">herfra</a>. Mer informasjon om løsningen, konfigurasjon, installasjon og feilsøking finner du på <a href="https://github.com/Puzzlepart/prosjektportalen365/wiki">wiki-sidene til Prosjektportalen 365</a>.
+The Project Portal 365 can be downloaded <a href="https://github.com/Puzzlepart/prosjektportalen365/releases/latest">from here</a>. More information about the solution, configuration, installation and troubleshooting can be found at <a href="https://github.com/Puzzlepart/prosjektportalen365/wiki">the wiki pages of Project Portal 365</a>.
 
-Vi gjør oppmerksom at vi logger hver installasjon som blir kjørt av skriptet til en sentral oversikt. Dette gjøres for å ha kontroll på installasjonshyppighet og hvordan installasjoner gjøres. Informasjonen brukes kun for å forbedre løsningen.
+We note that we log each installation run by the script to a central view. This is done to control the installation frequency and how installations are done. The information is used only to improve the solution.
 
-## Kontakt ##
+## Contact
 
-Har du spørsmål om Prosjektportalen for Office 365, behov for bistand til installasjon av løsningen eller muligheter for videreutvikling og spesialtilpasninger, ta kontakt med <a href="mailto:prosjektportalen@puzzlepart.com">Prosjektportalen @ Puzzlepart</a>. 
+If you have questions about the Office 365 Project Portal, need assistance with installing the solution or opportunities for further development and customization, please contact <a href="mailto:prosjektportalen@puzzlepart.com"> The Project Portal @ Puzzlepart </a>.
 
-For tekniske og funksjonelle spørsmål, ta kontakt med <a href="mailto:jan.lindset@puzzlepart.com">Jan Lindset</a>. Vi gjør oppmerksom på at eventuell bistand vil være en fakturerbar tjeneste. 
+For technical and functional questions, contact <a href="mailto:jan.lindset@puzzlepart.com"> Jan Lindset </a>. We note that any assistance will be a billable service.
 
-## Maintainers ##
+## Maintainers
 
 Tarjei Ormestøyl (tarjeieo@puzzlepart.com)
 Ole Martin Pettersen (olemp@puzzlepart.com)
